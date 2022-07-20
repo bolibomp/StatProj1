@@ -1,4 +1,4 @@
-# Statproj1
+# Statistics Project 1
 
 The two point correlation function, ω(θ), is used for description of data clusters, such as
 galaxy distribution. Clustering increase the likelihood that two points are close to each
